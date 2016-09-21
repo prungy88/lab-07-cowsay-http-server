@@ -49,4 +49,3 @@ for all request to `/` the server should respond with the following:
 
 ## Bonus
 * **2pts** - add the ability to change the cowfile, **aka: dragon, sheep, ect** using a querysting
-
